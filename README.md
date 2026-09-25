@@ -1,17 +1,19 @@
 # OnHand Core
 
-Practical skills for AI agents.  
-Less wandering. More doing.
+OnHand Core is a growing series of practical skills for AI agents.
 
-## Skills
+The goal is simple: make agents spend less effort figuring out how to work, and more effort actually getting work done.
+
+The OnHand Core skill series is currently being prepared and will be released gradually.
+
+## First Release
 
 ### OnHandDrudge
-Turn complex, messy tasks into structured, executable work for AI agents.
 
-### OnHandBestFitTool
-Find the best available skill for the job.
+The first OnHand Core skill.
 
-### OnHandThoroughfare
-A deterministic skill handoff fabric.
+OnHandDrudge turns complex, messy tasks into structured, executable work for AI agents.
 
-More OnHand skills are coming.
+**Less wandering. More doing.**
+
+More OnHand Core skills are coming.
