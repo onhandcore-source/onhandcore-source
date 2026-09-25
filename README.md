@@ -1,16 +1,17 @@
-## Hi there 👋
+# OnHand Core
 
-<!--
-**onhandcore-source/onhandcore-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Practical skills for AI agents.  
+Less wandering. More doing.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### OnHandDrudge
+Turn complex, messy tasks into structured, executable work for AI agents.
+
+### OnHandBestFitTool
+Find the best available skill for the job.
+
+### OnHandThoroughfare
+A deterministic skill handoff fabric.
+
+More OnHand skills are coming.
